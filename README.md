@@ -65,20 +65,8 @@ Este es mi portfolio personal donde presento mis habilidades técnicas, proyecto
 - **Portfolio en Vivo:** [LINK_DE_TU_PORTFOLIO_AQUI]
 - **Repositorio GitHub:** [LINK_DE_TU_REPOSITORIO_AQUI]
 
-### 📸 Vista Previa
-
-![Screenshot](LINK_A_SCREENSHOT)
 
 ---
-
-## 💻 Instalación
-
-### Clonar el Repositorio
-
-```bash
-git clone LINK_DE_TU_REPOSITORIO_AQUI
-cd portfolio
-```
 
 ### Abrir en el Navegador
 
@@ -109,21 +97,21 @@ portfolio/
 ### 1. 🏆 Workem - Hackathon
 Plataforma que conecta personas buscando empleo con empresas que necesitan trabajadores.
 
-**[Ver Video →](LINK_VIDEO_WORKEM)**
+**[Ver Video →](https://youtu.be/SHgek70fce0?si=P8RbNvs72zQAkmOa)**
 
 ---
 
 ### 2. 💼 SellIt - Expo
 Ayuda a estudiantes a iniciar pequeños negocios vendiendo útiles escolares o creaciones propias.
 
-**[Ver Proyecto →](LINK_PROYECTO_SELLIT)**
+**[Ver Proyecto →](https://sellit.infinityfreeapp.com/?i=2)**
 
 ---
 
 ### 3. 🌍 Explores - Expotech
 Muestra lugares hermosos y tranquilos de El Salvador que los turistas no conocen, apoyando a comunidades locales.
 
-**[Ver Proyecto →](LINK_PROYECTO_EXPLORES)**
+**[Ver Proyecto →](https://explores.infinityfreeapp.com/index.php?i=1)**
 
 ---
 
@@ -132,19 +120,14 @@ Muestra lugares hermosos y tranquilos de El Salvador que los turistas no conocen
 ¿Interesado en colaborar o tienes alguna pregunta?
 
 - 📧 **Email:** alan.cornejoramirez23@gmail.com
-- 📱 **Teléfono:** +503 7728-9593
+- 📱 **Teléfono:** +503 7503-4746
 - 📍 **Ubicación:** San Salvador, El Salvador
-- 💼 **LinkedIn:** [LINK_A_TU_LINKEDIN]
-- 🐙 **GitHub:** [LINK_A_TU_GITHUB]
-- 📸 **Instagram:** [LINK_A_TU_INSTAGRAM]
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/alan-cornejo-8067bb38a/?locale=en_US]
+- 🐙 **GitHub:** [https://github.com/AlanRamirez26/AlanRamirez]
+- 📸 **Instagram:** [https://www.instagram.com/alanram43/]
 
 ---
 
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
-
----
 
 ## 🙏 Agradecimientos
 
