@@ -15,7 +15,6 @@
 - [Características](#-características)
 - [Tecnologías Utilizadas](#-tecnologías-utilizadas)
 - [Demo](#-demo)
-- [Instalación](#-instalación)
 - [Estructura del Proyecto](#-estructura-del-proyecto)
 - [Proyectos Destacados](#-proyectos-destacados)
 - [Contacto](#-contacto)
