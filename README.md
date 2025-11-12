@@ -68,12 +68,6 @@ Este es mi portfolio personal donde presento mis habilidades técnicas, proyecto
 
 ---
 
-### Abrir en el Navegador
-
-Simplemente abre el archivo `index.html` en tu navegador favorito o usa Live Server si trabajas con VS Code.
-
----
-
 ## 📁 Estructura del Proyecto
 
 ```
