@@ -18,7 +18,6 @@
 - [Project Structure](#-project-structure)
 - [Featured Projects](#-featured-projects)
 - [Contact](#-contact)
-- [License](#-license)
 
 ---
 
