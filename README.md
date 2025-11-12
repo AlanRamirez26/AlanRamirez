@@ -77,7 +77,7 @@ portfolio/
 ├── style.css           # Archivo de estilos CSS
 ├── README.md           # Documentación del proyecto
 │
-└── images/             # Carpeta de imágenes
+└── images/             # imágenes
     ├── tu-foto.jpg     # Foto de perfil
     ├── workem.png      # Proyecto Workem
     ├── sellit.png      # Proyecto SellIt
