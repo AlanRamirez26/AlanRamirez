@@ -130,7 +130,5 @@ Thank you for visiting my portfolio. If you liked it, don't forget to give it a 
 
 **Made with ❤️ by Alan Cornejo**
 
-[⬆ Back to top](#-portfolio-personal---alan-cornejo)
-
 
 </div>
