@@ -3,7 +3,6 @@
 # 🚀 Personal Portfolio - Alan Cornejo
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Online-success?style=for-the-badge&logo=google-chrome&logoColor=white)](LINK_TO_YOUR_PORTFOLIO_HERE)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
 
 > 💼 Professional personal portfolio showcasing my projects, skills, and experience as an aeronautical engineering student.
 
